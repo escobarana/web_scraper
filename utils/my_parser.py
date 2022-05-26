@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from utils.my_scraper import Scraper
 
 
-class MyParser:
+class Parser:
     """
     Class Parser to parse utils content and retrieve valuable information
     """
